@@ -1,11 +1,9 @@
 import './App.css';
-import UploadButton from './components/UploadButton'
+import BasicLayout from "./BasicLayout/index"
 
 function App() {
   return (
-    <div className="App">
-      <UploadButton />
-    </div>
+    <BasicLayout />
   );
 }
 
