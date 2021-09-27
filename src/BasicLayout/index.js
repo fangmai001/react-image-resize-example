@@ -11,16 +11,6 @@ import './index.css';
 
 class BasicLayout extends Component {
 
-  state = {
-    collapsed: false,
-  }
-
-  toggle = () => {
-    this.setState({
-      collapsed: !this.state.collapsed,
-    })
-  }
-
   render() {
     const screenWidth = window.innerWidth
     const isMobileScreen = screenWidth <= 576
