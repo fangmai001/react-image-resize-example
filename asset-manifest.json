@@ -1,22 +1,25 @@
 {
   "files": {
-    "main.css": "/react-image-resize-example/static/css/main.a617e044.chunk.css",
-    "main.js": "/react-image-resize-example/static/js/main.fd9c548a.chunk.js",
-    "main.js.map": "/react-image-resize-example/static/js/main.fd9c548a.chunk.js.map",
-    "runtime-main.js": "/react-image-resize-example/static/js/runtime-main.2b3c6ccf.js",
-    "runtime-main.js.map": "/react-image-resize-example/static/js/runtime-main.2b3c6ccf.js.map",
-    "static/js/2.ab4d81ad.chunk.js": "/react-image-resize-example/static/js/2.ab4d81ad.chunk.js",
-    "static/js/2.ab4d81ad.chunk.js.map": "/react-image-resize-example/static/js/2.ab4d81ad.chunk.js.map",
-    "static/js/3.3c904ea2.chunk.js": "/react-image-resize-example/static/js/3.3c904ea2.chunk.js",
-    "static/js/3.3c904ea2.chunk.js.map": "/react-image-resize-example/static/js/3.3c904ea2.chunk.js.map",
+    "main.css": "/react-image-resize-example/static/css/main.7b7a6c26.chunk.css",
+    "main.js": "/react-image-resize-example/static/js/main.68a0ca62.chunk.js",
+    "main.js.map": "/react-image-resize-example/static/js/main.68a0ca62.chunk.js.map",
+    "runtime-main.js": "/react-image-resize-example/static/js/runtime-main.5990def3.js",
+    "runtime-main.js.map": "/react-image-resize-example/static/js/runtime-main.5990def3.js.map",
+    "static/css/2.786ae0dd.chunk.css": "/react-image-resize-example/static/css/2.786ae0dd.chunk.css",
+    "static/js/2.caca424d.chunk.js": "/react-image-resize-example/static/js/2.caca424d.chunk.js",
+    "static/js/2.caca424d.chunk.js.map": "/react-image-resize-example/static/js/2.caca424d.chunk.js.map",
+    "static/js/3.d882ae41.chunk.js": "/react-image-resize-example/static/js/3.d882ae41.chunk.js",
+    "static/js/3.d882ae41.chunk.js.map": "/react-image-resize-example/static/js/3.d882ae41.chunk.js.map",
     "index.html": "/react-image-resize-example/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/react-image-resize-example/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.ab4d81ad.chunk.js.LICENSE.txt": "/react-image-resize-example/static/js/2.ab4d81ad.chunk.js.LICENSE.txt"
+    "static/css/2.786ae0dd.chunk.css.map": "/react-image-resize-example/static/css/2.786ae0dd.chunk.css.map",
+    "static/css/main.7b7a6c26.chunk.css.map": "/react-image-resize-example/static/css/main.7b7a6c26.chunk.css.map",
+    "static/js/2.caca424d.chunk.js.LICENSE.txt": "/react-image-resize-example/static/js/2.caca424d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2b3c6ccf.js",
-    "static/js/2.ab4d81ad.chunk.js",
-    "static/css/main.a617e044.chunk.css",
-    "static/js/main.fd9c548a.chunk.js"
+    "static/js/runtime-main.5990def3.js",
+    "static/css/2.786ae0dd.chunk.css",
+    "static/js/2.caca424d.chunk.js",
+    "static/css/main.7b7a6c26.chunk.css",
+    "static/js/main.68a0ca62.chunk.js"
   ]
 }
