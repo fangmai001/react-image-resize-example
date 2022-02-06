@@ -56,8 +56,6 @@ function ExportComponent(props) {
     </div>
   );
 
-  console.log('fileList', fileList)
-
   return (
     <div>
       <Upload

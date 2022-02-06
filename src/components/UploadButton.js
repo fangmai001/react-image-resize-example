@@ -19,7 +19,6 @@ export default function UploadButton() {
   const classes = useStyles();
 
   const handleFiles = (files) => {
-    console.log(files)
     ImageResize(files)
   } 
 
