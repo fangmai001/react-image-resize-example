@@ -1,4 +1,4 @@
-import React, { useState, useEffect, Fragment } from 'react';
+import React from 'react';
 import Resizer from "react-image-file-resizer";
 import {
   Button,

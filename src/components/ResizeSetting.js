@@ -1,9 +1,6 @@
-import React, { useState, useEffect, Fragment } from 'react';
-import Resizer from "react-image-file-resizer";
+import React from 'react';
 import {
-  Button,
   Form,
-  Input,
   InputNumber,
 } from 'antd';
 
@@ -13,25 +10,7 @@ function ExportComponent(props) {
     maxWidth,
     maxHeight,
     quality,
-    compressFormat,
-    rotation,
-    outputType,
   } = resizeSetting
-
-  // const formItemLayout = {
-  //   labelCol: {
-  //     xs: { span: 24 },
-  //     sm: { span: 8 },
-  //   },
-  //   wrapperCol: {
-  //     xs: { span: 24 },
-  //     sm: { span: 16 },
-  //   },
-  // }
-  const formItemLayout = {
-    labelCol: { span: 14 },
-    wrapperCol: { span: 6 },
-  }
 
   const onFormChange = (params) => {
     setResizeSetting({
